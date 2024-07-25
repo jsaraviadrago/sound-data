@@ -61,6 +61,7 @@ min = np.min(v)
 max = np.max(v)
 vf = 500 + 2000 * (1 - (v - min) / (max - min))
 
+
 #-- plot data
 
 mpl.rcParams['axes.linewidth'] = 0.3
@@ -77,17 +78,17 @@ plt.show()
 
 #-- Turn the data into music
 
-def get_sine_wave(frequency, duration, sample_rate=44100, amplitude=4096):
-    t = np.linspace(0, duration, int(sample_rate*duration))
-    wave = amplitude*np.sin(2*np.pi*frequency*t)
-    return wave
+#def get_sine_wave(frequency, duration, sample_rate=44100, amplitude=4096):
+#    t = np.linspace(0, duration, int(sample_rate*duration))
+#    wave = amplitude*np.sin(2*np.pi*frequency*t)
+#    return wave
 
-wave=[]
-for t in x: # loop over dataset observations, create one note per observation
-    note = int(yf[t])
-    duration = zf[t]
-    frequency = scale[note]
-    volume = vf[t]  ## 2048
-    new_wave = get_sine_wave(frequency, duration = zf[t], amplitude = vf[t])
-    wave = np.concatenate((wave,new_wave))
-wavfile.write('sound.wav', rate=44100, data=wave.astype(np.int16))
+#wave=[]
+#for t in x: # loop over dataset observations, create one note per observation
+#    note = int(yf[t])
+#    duration = zf[t]
+#    frequency = scale[note]
+#    volume = vf[t]  ## 2048
+#    new_wave = get_sine_wave(frequency, duration = zf[t], amplitude = vf[t])
+#    wave = np.concatenate((wave,new_wave))
+#wavfile.write('sound.wav', rate=44100, data=wave.astype(np.int16))

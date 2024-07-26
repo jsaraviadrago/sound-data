@@ -11,6 +11,7 @@ I won't go into the detail with that script because he goes into very nice and u
 
 3. The Notebook, this can also be turned into a script in no time but I left it like that to explain everything. It has all the steps I did to convert real data into music. 
 
+You can also check Vincent Granville's books that are very useful, easy to read and also with concrete and generalizable examples.
 
 ### Reference
 

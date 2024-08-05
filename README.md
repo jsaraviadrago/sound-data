@@ -5,7 +5,7 @@ This repo has three main files:
 
 1. The .py script that is from Mltechniques. Vincent Granville shows an example on how to do this here[[1]](#1) and here[[2]](#2). Actually the exact example of the script is in the second reference. 
 
-I won't go into the detail with that script because he goes into very nice and useful detail. 
+I won't go into detail with that script because he goes into very nice and useful detail. 
 
 2. The "Global temperature" dataset from Kaggle. You can find the whole dataset and explanation here[[3]](#3). Inside the repo you can find the cleaned file that I used to create the music. 
 

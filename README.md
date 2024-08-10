@@ -29,3 +29,31 @@ Mltechniques.
 Arvidsson, J (2024).
 [Global Earth Temperatures](https://www.kaggle.com/datasets/joebeachcapital/global-earth-temperatures).
 Kaggle. 
+
+
+
+<!--
+https://www.askpython.com/python/examples/amplitude-of-wav-files
+
+https://datadrivendj.com/tracks/subway/
+
+https://www.quora.com/When-should-you-use-sonification-instead-of-visualization
+
+https://en.m.wikipedia.org/wiki/Data_sonification#:~:text=Applications%20of%20data%20sonification%20include,collaboration%20between%20scientists%20and%20musicians.
+
+https://www.earthdata.nasa.gov/learn/blog/data-sonification-open-science
+
+https://mlaetsc.hcommons.org/2023/01/18/data-sonification-for-beginners/#:~:text=Data%20sonification%20is%20analogous%20to,than%20many%20of%20us%20realize.
+
+can you extract the frequency and note of a song with python?
+
+
+
+-->
+
+
+
+
+
+
+

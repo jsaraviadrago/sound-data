@@ -13,6 +13,8 @@ I won't go into detail with that script because he goes into very nice and usefu
 
 You can also check Vincent Granville's books that are very useful, easy to read and also with concrete and generalizable examples.
 
+If ths topics is of your interest you can also create new tones. Brian Foo also has a script regarding this[[4]](#4)
+
 ### Reference
 
 <a id="1">[1]</a> 
@@ -30,12 +32,18 @@ Arvidsson, J (2024).
 [Global Earth Temperatures](https://www.kaggle.com/datasets/joebeachcapital/global-earth-temperatures).
 Kaggle. 
 
+<a id="4">[4]</a>
+Foo, B. (s.f)
+[Data driven DJ](https://datadrivendj.com/tracks/subway/)
+
+
+
 
 
 <!--
 https://www.askpython.com/python/examples/amplitude-of-wav-files
 
-https://datadrivendj.com/tracks/subway/
+
 
 https://www.quora.com/When-should-you-use-sonification-instead-of-visualization
 

@@ -11,6 +11,8 @@ I won't go into detail with that script because he goes into very nice and usefu
 
 3. The Notebook, this can also be turned into a script in no time but I left it like that to explain everything. It has all the steps I did to convert real data into music. 
 
+4. There is a simpel script to strip the audio from the video
+
 You can also check Vincent Granville's books that are very useful, easy to read and also with concrete and generalizable examples.
 
 If ths topics is of your interest you can also create new tones. Brian Foo also has a script regarding this[[4]](#4)
